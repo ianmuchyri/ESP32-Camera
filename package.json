@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "async": "^3.2.5",
+    "fluent-ffmpeg": "^2.1.2",
+    "ws": "^8.14.2"
+  },
+  "type": "module",
+  "keywords": [
+    "streaming",
+    "video"
+  ]
+}
